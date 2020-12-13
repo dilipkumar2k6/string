@@ -1,0 +1,3 @@
+- Take sub region of string and only operate on them.
+- If property hold in that region then that's my anwser
+- Otherwise increase the window size
