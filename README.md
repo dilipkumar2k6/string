@@ -139,6 +139,11 @@ https://leetcode.com/problems/camelcase-matching/
 
 https://leetcode.com/problems/repeated-string-match/
 
+# Split
+https://leetcode.com/problems/split-array-with-equal-sum/
+
+https://leetcode.com/problems/number-of-ways-to-split-a-string/
+
 
 # Regex
 https://leetcode.com/problems/validate-ip-address/
