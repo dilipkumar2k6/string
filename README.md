@@ -34,7 +34,19 @@ https://leetcode.com/problems/longest-duplicate-substring/
 
 https://leetcode.com/problems/repeated-substring-pattern/
 
+https://leetcode.com/problems/rotate-string/
+
 https://www.youtube.com/watch?v=Z2h3rkVXPeQ&t=1182s
+
+# Boyer Moore Matching
+https://leetcode.com/problems/rotate-string/
+
+# Boyer–Moore majority vote algorithm
+https://leetcode.com/problems/majority-element/
+
+https://leetcode.com/problems/majority-element-ii/
+
+https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm
 
 # Prefix matching - Trie
 
