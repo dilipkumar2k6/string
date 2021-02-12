@@ -15,17 +15,11 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 https://leetcode.com/problems/count-binary-substrings/
 
-https://leetcode.com/problems/minimum-window-substring/
-
 https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
-
-https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 
 https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
-
-https://leetcode.com/problems/minimum-window-substring/
 
 # Robin Karp  - Sliding window (Critial problem)
 https://leetcode.com/problems/implement-strstr/
