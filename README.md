@@ -44,8 +44,6 @@ https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm
 
 # Prefix matching - Trie
 
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 
 https://leetcode.com/problems/palindrome-pairs/
@@ -67,6 +65,32 @@ https://leetcode.com/problems/camelcase-matching/
 https://leetcode.com/problems/replace-words/
 
 https://leetcode.com/problems/implement-magic-dictionary/
+
+# Suffice Trie
+https://leetcode.com/problems/string-matching-in-an-array/
+
+# Interview questions
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+
+https://leetcode.com/discuss/interview-question/351783/
+
+https://leetcode.com/discuss/interview-question/364618/
+
+https://leetcode.com/discuss/interview-question/406031/
+
+https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+
+https://leetcode.com/discuss/interview-question/430981/
+
+https://leetcode.com/discuss/interview-question/451482/
+
+https://leetcode.com/problems/meeting-rooms-ii/
+
+https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+
+https://leetcode.com/discuss/interview-question/548119/
 
 # Dynamic programming
 https://leetcode.com/problems/longest-palindromic-subsequence/
@@ -138,8 +162,6 @@ https://leetcode.com/problems/word-pattern/
 https://leetcode.com/problems/word-pattern-ii/
 
 https://leetcode.com/problems/find-and-replace-pattern/
-
-https://leetcode.com/problems/string-matching-in-an-array/
 
 https://leetcode.com/problems/camelcase-matching/
 
