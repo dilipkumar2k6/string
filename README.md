@@ -93,6 +93,14 @@ https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 https://leetcode.com/discuss/interview-question/548119/
 
 # Dynamic programming
+
+https://leetcode.com/problems/longest-common-subsequence/
+
+https://www.lintcode.com/problem/longest-common-substring/
+
+https://leetcode.com/problems/edit-distance/
+
+
 https://leetcode.com/problems/longest-palindromic-subsequence/
 
 https://leetcode.com/problems/longest-palindromic-subsequence-ii/
@@ -107,7 +115,11 @@ https://leetcode.com/problems/palindrome-partitioning-ii/
 
 https://leetcode.com/problems/palindrome-partitioning-iii/
 
+https://leetcode.com/problems/palindrome-partitioning-iv/
+
 https://leetcode.com/problems/palindrome-removal/
+
+https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RMkk7NwE44R
 
@@ -134,6 +146,8 @@ https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-codin
 # Palindrome problems
 Concept to go through https://leetcode.com/problems/longest-palindromic-substring/solution/
 
+https://leetcode.com/problems/palindromic-substrings
+
 https://leetcode.com/problems/valid-palindrome/
 
 https://leetcode.com/problems/valid-palindrome-ii/
@@ -151,6 +165,16 @@ https://leetcode.com/problems/palindrome-permutation-ii/
 https://leetcode.com/problems/construct-k-palindrome-strings/
 
 https://leetcode.com/problems/text-justification/
+
+# Anagram
+https://leetcode.com/problems/valid-anagram/
+
+https://leetcode.com/problems/group-anagrams/
+
+https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+
 
 # Pattern matching
 https://leetcode.com/problems/regular-expression-matching/
