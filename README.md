@@ -143,6 +143,8 @@ https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-codin
 
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RMM68YXRwEK
 
+https://leetcode.com/problems/number-of-matching-subsequences/
+
 # Palindrome problems
 Concept to go through https://leetcode.com/problems/longest-palindromic-substring/solution/
 
@@ -191,11 +193,15 @@ https://leetcode.com/problems/camelcase-matching/
 
 https://leetcode.com/problems/repeated-string-match/
 
+https://leetcode.com/problems/long-pressed-name/
+
 # Split
 https://leetcode.com/problems/split-array-with-equal-sum/
 
 https://leetcode.com/problems/number-of-ways-to-split-a-string/
 
+# Wiggle
+https://leetcode.com/problems/wiggle-subsequence/
 
 # Regex
 https://leetcode.com/problems/validate-ip-address/
