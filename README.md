@@ -66,6 +66,8 @@ https://leetcode.com/problems/replace-words/
 
 https://leetcode.com/problems/implement-magic-dictionary/
 
+https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
 # Suffice Trie
 https://leetcode.com/problems/string-matching-in-an-array/
 
