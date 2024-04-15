@@ -179,6 +179,9 @@ https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 
+# String rotation
+
+https://leetcode.com/problems/string-transformation/description/
 
 # Pattern matching
 https://leetcode.com/problems/regular-expression-matching/
