@@ -46,6 +46,8 @@ https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm
 
 https://leetcode.com/problems/implement-trie-prefix-tree/
 
+https://leetcode.com/problems/search-suggestions-system/description/
+
 https://leetcode.com/problems/word-search/
 
 https://leetcode.com/problems/word-search-ii/
